@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">语音控制</string>
+    <string name="action_settings">设置</string>
+    <string name="action_search">搜索</string>
+    <string name="search_result">搜索结果</string>
+    <string name="search_label">搜索</string>
+    <string name="search_hint">输入搜索内容</string>
+    <string name="action_exit">退出</string>
+    <string name="action_plus">功能</string>
+    <string name="action_about">关于</string>
+    <string name="tv_voicectrl">语音控制开关</string>
+    <string name="tl_chat">图灵聊天</string>
+    <string name="bt_speek">语音合成</string>
+    <string name="bt_recognize">语音识别</string>
+    <string name="text_official_website">官方网站</string>
+    <string name="text_rate_app">去评分</string>
+    <string name="text_about_help">帮助</string>
+    <string name="text_about_feedback">反馈</string>
+    <string name="text_about_update">检查更新</string>
+    <string name="text_company">微语*版权所有 By:Deveb</string>
+    <string name="text_copyright">Copyright &#169; 2014-2020 Deveb All Rights Reserved.</string>
+    <string name="plus_weather">天气查询</string>
+    <string name="plus_music">音乐控制</string>
+    <string name="plus_chat">WIFI聊天</string>
+    <string name="plus_record">语音记事</string>
+    <string name="plus_chatonline">即时通讯</string>
+    <string name="weather_city">在此输入地名,如:合肥</string>
+    <string name="weather_cx">查询</string>
+
+</resources>

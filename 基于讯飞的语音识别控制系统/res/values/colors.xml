@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="table_background">#cbcbcb</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="top_bar_normal_bg">#404040</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="sign_normal">#d33f3f</color>
+    <color name="sign_pressed">#DA5A4D</color>
+    <color name="btn_register_normal">#2dafa3</color>
+    <color name="btn_register_pressed">#4ebcd3</color>
+    <color name="background">#f2f2f2</color>
+
+    <drawable name="pressed_bg">#f2f2f2</drawable>
+    <drawable name="nopressed_bg">#fff</drawable>
+
+</resources>
